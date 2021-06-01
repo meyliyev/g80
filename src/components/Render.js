@@ -17,7 +17,6 @@ class Render extends React.Component {
                 </div>
             </div>
 
-
         );
     }
 }

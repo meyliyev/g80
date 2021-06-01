@@ -13,6 +13,6 @@ import Wrap from "./Wrap";
 import State from "./components/State";
 import Render from "./components/Render";
 ReactDOM.render(
-    <Render/>, document.getElementById('root')
+    <Wrap/>, document.getElementById('root')
 );
 
